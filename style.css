@@ -1,0 +1,32 @@
+
+ table,td, th{
+     border: 1px solid red;
+ }
+ table{
+     width: 70%;
+ }
+ h1{
+     text-align: left;
+ }
+
+#food{
+    color: green;
+}
+
+#movies{
+    color: blue;
+    font-family: cursive;
+}
+
+.info{
+    color: red;
+}
+.bio{
+    font-family: cursive;
+    color: purple;
+}
+img{
+    width: 10%;
+    height: 150px;
+    border-radius: 50%;
+}
